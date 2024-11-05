@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: jubairshompod@gmail.com
-- 😄 My website: https://globalmdbd.blogspot.com/2023/06/about-my-first-journey-to-become.html
+- 😄 My website: _https://globalmdbd.blogspot.com/2023/06/about-my-first-journey-to-become.html
 - ⚡ Fun fact: I'm coming to teen
   
 ### Connect with me:
